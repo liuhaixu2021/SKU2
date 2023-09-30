@@ -1,0 +1,1 @@
+The timing task run result graph is inside test_results, the prediction result is inside results, the code needs linux environment to run, to run the timing prediction task please run run_longExp.py, and doForecasting.py file in ts2vec folder. The machine learning optimisation task code and results are inside ML_model.
